@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## 🏆 Awards
 |Competition|Award|Date|
