@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🏆 Awards
+|Competition|Award|Date|
+|:----:|:----:|:----:|
+|[2025년 광진구 빅데이터 분석 공모전](https://www.gwangjin.go.kr/portal/bbs/B0000003/view.do?nttId=6397299&menuNo=200192&pSiteId=portal&pageIndex=1)|대상|2025-03 ~ 2025-06|
+
 <!--
 **kimgihoon-99/kimgihoon-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
